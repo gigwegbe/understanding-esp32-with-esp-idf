@@ -31,7 +31,7 @@ npx create-esp32-app
 3. you will be prompted for the IDF-tools path. select or navigate to the location of the IDF-tools path
 4. navigate to the directory of the project name you created
 ```
-cd <project name>
+cd blinkey_test
 ```
 4. open the project in vscode ```code .```
 
