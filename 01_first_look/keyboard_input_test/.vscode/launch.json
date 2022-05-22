@@ -8,7 +8,7 @@
       "name": "ESP32 OpenOCD",
       "type": "cppdbg",
       "request": "launch",
-      "miDebuggerPath": "/Users/george/esp-idf/tools/.espressif/tools/xtensa-esp32-elf/esp32-2019r1-8.2.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-gdb.exe",
+      "miDebuggerPath": "/Users/george/esp/esp-idf/tools/.espressif/tools/xtensa-esp32-elf/esp32-2019r1-8.2.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-gdb.exe",
       "cwd": "${workspaceFolder}/build",
       //change the name of the elf file as required
       "program": "/Users/george/Documents/embedded_c/understanding-esp32-with-esp-idf/keyboard_input_test/build/keyboard_input_test.elf",
