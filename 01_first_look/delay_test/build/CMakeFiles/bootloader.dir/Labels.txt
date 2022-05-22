@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/Users/george/Documents/embedded_c/understanding-esp32-with-esp-idf/01_first_look/delay_test/build/CMakeFiles/bootloader
+/Users/george/Documents/embedded_c/understanding-esp32-with-esp-idf/01_first_look/delay_test/build/CMakeFiles/bootloader.rule
+/Users/george/Documents/embedded_c/understanding-esp32-with-esp-idf/01_first_look/delay_test/build/CMakeFiles/bootloader-complete.rule
+/Users/george/Documents/embedded_c/understanding-esp32-with-esp-idf/01_first_look/delay_test/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/Users/george/Documents/embedded_c/understanding-esp32-with-esp-idf/01_first_look/delay_test/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/Users/george/Documents/embedded_c/understanding-esp32-with-esp-idf/01_first_look/delay_test/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/Users/george/Documents/embedded_c/understanding-esp32-with-esp-idf/01_first_look/delay_test/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/Users/george/Documents/embedded_c/understanding-esp32-with-esp-idf/01_first_look/delay_test/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/Users/george/Documents/embedded_c/understanding-esp32-with-esp-idf/01_first_look/delay_test/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/Users/george/Documents/embedded_c/understanding-esp32-with-esp-idf/01_first_look/delay_test/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
